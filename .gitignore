@@ -1,0 +1,7 @@
+# 프로젝트 제외 경로
+/.idea/
+/.gradle/
+# 프로젝트 제외 경로
+/build/
+
+/gradle.properties
